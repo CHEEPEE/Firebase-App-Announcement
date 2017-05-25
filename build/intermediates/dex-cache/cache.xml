@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/14632d84aa94b91138992949c84088b895908ea2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_8314b802fdbaf22b496d8d5babd3c75df57fc585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_c6ad2318866e834f8c61af3cf7cea69d6633522e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/586cd48b5ec7f5669726044c3e3f8a9fdfcabf1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_b3a7f2208c8a338eb7bdd72df34d691d165843c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keji/AndroidStudioProjects/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff455e9d3de6337c94cab91dde1c6712dd9c1a23">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_72240c0715621df6f47770ffd3e05e0421722b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_52d1c1cf0029d4b8ff92d81f44bf38a2cb9939dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/4bc472fac2ee57823c6dfa9940c1bf3197dd58e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_2a9f150f8fd451c684b46e9ea9db41ad964cc57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/eaa702d58c4e55249aef0b0be7191eb053535dc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_bc2f1d7715be08bac9613c5cdf7c01a0381147ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/9b0ef2f6ac2f9a9e6e34b11c389d38d8d6e8396a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_32dcce297c462be274d3401264eb1aabbb659eb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keji/AndroidStudioProjects/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3a3a9c98a8922cc5a6f59d55d341bdba17d2c14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/e40ca5ec2b2300a21cc450481e152ca4dde2ff5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_d229023d5f2b3ee61f24698c837ab72c0124093d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/6f6059b7c37060665e719fb901bfd6669516d458/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_37e19787263da27175a24cb0b9b76b9b30f4d354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/ea72e901a3ee4c1fc9a6f7015c8d8fd13d574836/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_433a94e33ca6ec5a65ebd3b468fa5ce381c8cf4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/011c5b054f2c0e01beae2570a6c1b06dcc7cb2f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_3645b485560bb9597801198d9e07a1e0ab9dead1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/keji/.android/build-cache/a4f5149c9c10576bbd7a8f0ca6ab3d674deb0050/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/keji/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/classes_3906a153b2e862c04b6c8cff8beb1948c4f07471.jar" />
+    </item>
+
+</items>
